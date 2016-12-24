@@ -6,7 +6,7 @@ $(document).ready(function() {
       $("#4").val().toLowerCase() === "z" &&
       $("#5").val().toLowerCase() === "e"
     ) {
-      alert("Super! Nur doof, dass hier keiner 'ne Kerze hat :)");
+      alert("Wow! Ihr habt es geschafft. Aber was nun?");
     }
   });
 });
